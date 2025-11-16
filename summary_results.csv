@@ -1,0 +1,7 @@
+Metric,Value
+Avg prep queue,1.68
+Avg theatre queue,1.04
+Avg recovery queue,0
+Prep utilisation (%),79.3
+Theatre utilisation (%),84.0
+Recovery utilisation (%),15.3
